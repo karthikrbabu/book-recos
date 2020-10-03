@@ -1,5 +1,7 @@
-# MIDS207-Final-Project: Book Recommendations
+# Good-Reads Book Recommendations
 ## Meet your next favorite book!
+### MIDS207-Final-Project:
+
 
 ### Team:
 * Jaclyn Andrews
@@ -8,9 +10,13 @@
 * Karthik Rameshbabu
 
 
+## Goal
+
+Provide book recommendations by genre, author, and cover art color, using content based filtering. In addition make user specific book recommendations through collaborative filtering using user provided ratings.
+
 ## Data
 
-In the ```\data``` folder you will find the below directories that have our projects raw data, as well as cleaned data that have processed for use in our various models
+In the ```\data``` folder you will find the below directories that have our projects raw data, as well as cleaned data that have processed for use in our various models. The data was original taken from this Kaggle posting: https://www.kaggle.com/jealousleopard/goodreadsbooks
 
 ```bat
 \data\parsed_data
