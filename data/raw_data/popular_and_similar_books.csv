@@ -1,0 +1,101 @@
+,book_id,similar,score,rank,title,authors,similar_title,similar_authors
+0,4410,466,0.04523158073425293,5,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,The Hobbit: Graphic Novel,"Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming"
+1,1618,504,0.2839614152908325,3,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone",Redeeming Love,Francine Rivers
+2,1788,780,0.270236611366272,1,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,Calvin and Hobbes,"Bill Watterson, G.B. Trudeau"
+3,3628,780,0.09565728902816772,4,The Complete Calvin and Hobbes,Bill Watterson,Calvin and Hobbes,"Bill Watterson, G.B. Trudeau"
+4,4483,780,0.1821213960647583,10,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,Calvin and Hobbes,"Bill Watterson, G.B. Trudeau"
+5,6920,780,0.05599474906921387,10,The Indispensable Calvin and Hobbes,Bill Watterson,Calvin and Hobbes,"Bill Watterson, G.B. Trudeau"
+6,7947,797,0.050966620445251465,9,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",Crazy Love: Overwhelmed by a Relentless God,"Francis Chan, Danae Yankoski, Chris Tomlin"
+7,2093,866,0.08629167079925537,10,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",Jaws,Peter Benchley
+8,1788,1010,0.2631579041481018,2,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson
+9,3628,1010,0.10095846652984619,2,The Complete Calvin and Hobbes,Bill Watterson,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson
+10,4483,1010,0.18400001525878906,9,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson
+11,6920,1010,0.0879940390586853,9,The Indispensable Calvin and Hobbes,Bill Watterson,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson
+12,2093,1132,0.1169467568397522,3,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",The Amityville Horror,Jay Anson
+13,1618,1218,0.11618667840957642,9,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone","This Present Darkness (Darkness, #1)",Frank E. Peretti
+14,2093,1247,0.09060174226760864,8,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",Rosemary's Baby,Ira Levin
+15,2093,1292,0.19393938779830933,1,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",'Salem's Lot,"Stephen King, Jerry N. Uelsmann"
+16,8854,1618,0.09589040279388428,7,Mark of the Lion Trilogy,Francine Rivers,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone"
+17,7947,1721,0.06170600652694702,5,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",My Utmost for His Highest,Oswald Chambers
+18,3628,1788,0.1499999761581421,1,The Complete Calvin and Hobbes,Bill Watterson,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson
+19,4483,1788,0.23003578186035156,4,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson
+20,6920,1788,0.10783052444458008,8,The Indispensable Calvin and Hobbes,Bill Watterson,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson
+21,2093,1829,0.11634618043899536,4,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",The Omen,David Seltzer
+22,4410,2101,0.026277363300323486,9,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,"The Harry Potter Collection 1-4 (Harry Potter, #1-4)","J.K. Rowling, Mary GrandPré"
+23,4410,2655,0.05689656734466553,4,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,"Ender's Game, Volume 1: Battle School (Ender's Saga)","Christopher Yost, Orson Scott Card, Pasqual Ferry, Frank D'Armata"
+24,7947,2681,0.0659722089767456,4,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",The Reason for God: Belief in an Age of Skepticism,Timothy J. Keller
+25,1618,2940,0.6194174885749817,1,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone","An Echo in the Darkness (Mark of the Lion, #2)",Francine Rivers
+26,8854,2940,0.13022112846374512,4,Mark of the Lion Trilogy,Francine Rivers,"An Echo in the Darkness (Mark of the Lion, #2)",Francine Rivers
+27,1618,3140,0.22146505117416382,4,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone",The Atonement Child,Francine Rivers
+28,8854,3140,0.12828946113586426,6,Mark of the Lion Trilogy,Francine Rivers,The Atonement Child,Francine Rivers
+29,4410,3230,0.29729729890823364,2,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,The Lord of the Rings: The Art of The Fellowship of the Ring,Gary Russell
+30,7947,3392,0.10144925117492676,1,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",Knowing God,J.I. Packer
+31,1788,3628,0.1499999761581421,7,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,The Complete Calvin and Hobbes,Bill Watterson
+32,8946,4068,0.1326860785484314,3,The Divan,Hafez,"Daddy-Long-Legs (Daddy-Long-Legs, #1)",Jean Webster
+33,4410,4229,0.31330472230911255,1,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,The Lord of the Rings: Weapons and Warfare,"Chris   Smith, Christopher Lee, Richard Taylor"
+34,8946,4260,0.09545457363128662,6,The Divan,Hafez,Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time,Brian Tracy
+35,1618,4320,0.4226190447807312,2,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone","As Sure as the Dawn (Mark of the Lion, #3)",Francine Rivers
+36,8854,4320,0.15878379344940186,1,Mark of the Lion Trilogy,Francine Rivers,"As Sure as the Dawn (Mark of the Lion, #3)",Francine Rivers
+37,7947,4453,0.05882352590560913,6,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",More Than a Carpenter,Josh McDowell
+38,1618,4482,0.19569122791290283,5,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone",The Scarlet Thread,Francine Rivers
+39,8854,4482,0.1450980305671692,2,Mark of the Lion Trilogy,Francine Rivers,The Scarlet Thread,Francine Rivers
+40,1788,4483,0.23003578186035156,3,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson
+41,3628,4483,0.09010154008865356,5,The Complete Calvin and Hobbes,Bill Watterson,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson
+42,6920,4483,0.1876247525215149,6,The Indispensable Calvin and Hobbes,Bill Watterson,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson
+43,2093,4528,0.08888888359069824,9,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",The Key to Midnight,"Leigh Nichols, Dean Koontz"
+44,8946,4531,0.0625,8,The Divan,Hafez,The Joke,Milan Kundera
+45,7947,4721,0.054054081439971924,8,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",The Prodigal God: Recovering the Heart of the Christian Faith,Timothy J. Keller
+46,4410,4729,0.027932941913604736,7,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,Gnomes,"Rien Poortvliet, Wil Huygen"
+47,7947,4778,0.05056178569793701,10,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",The Holy Bible: English Standard Version,Anonymous
+48,1618,5142,0.16211295127868652,8,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone","Her Mother's Hope (Marta's Legacy, #1)",Francine Rivers
+49,8854,5142,0.08196723461151123,9,Mark of the Lion Trilogy,Francine Rivers,"Her Mother's Hope (Marta's Legacy, #1)",Francine Rivers
+50,1788,5207,0.2210242748260498,5,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,The Days Are Just Packed: A Calvin and Hobbes Collection,Bill Watterson
+51,3628,5207,0.09566515684127808,3,The Complete Calvin and Hobbes,Bill Watterson,The Days Are Just Packed: A Calvin and Hobbes Collection,Bill Watterson
+52,4483,5207,0.2509803771972656,2,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,The Days Are Just Packed: A Calvin and Hobbes Collection,Bill Watterson
+53,6920,5207,0.2056555151939392,5,The Indispensable Calvin and Hobbes,Bill Watterson,The Days Are Just Packed: A Calvin and Hobbes Collection,Bill Watterson
+54,4410,5227,0.03147697448730469,6,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,Magician: Apprentice  (Raymond E. Feist's Magician: Apprentice #1),"Raymond E. Feist, Michael Avon Oeming, Bryan J.L. Glass, Ryan Stegman"
+55,8946,5244,0.05737704038619995,9,The Divan,Hafez,The Baron in the Trees,"Italo Calvino, Archibald Colquhoun"
+56,4410,5268,0.02620089054107666,10,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,Anatomy for the Artist,Sarah Simblet
+57,8946,5374,0.06557375192642212,7,The Divan,Hafez,Laughable Loves,"Milan Kundera, Suzanne Rappaport"
+58,7947,5571,0.07446807622909546,3,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",The Pursuit of Holiness,"Jerry Bridges, Foster W. Cline, Jim Fay"
+59,1788,5580,0.2252010703086853,4,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,The Calvin and Hobbes Lazy Sunday Book,Bill Watterson
+60,3628,5580,0.08175182342529297,6,The Complete Calvin and Hobbes,Bill Watterson,The Calvin and Hobbes Lazy Sunday Book,Bill Watterson
+61,4483,5580,0.2142857313156128,5,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,The Calvin and Hobbes Lazy Sunday Book,Bill Watterson
+62,6920,5580,0.2230769395828247,4,The Indispensable Calvin and Hobbes,Bill Watterson,The Calvin and Hobbes Lazy Sunday Book,Bill Watterson
+63,2093,5612,0.11014491319656372,6,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",Cold Fire / Hideaway / The Key to Midnight,"Dean Koontz, Leigh Nichols"
+64,8946,5730,0.28260868787765503,1,The Divan,Hafez,The Blind Owl,"Sadegh Hedayat, D.P. Costello"
+65,8946,5792,0.05199998617172241,10,The Divan,Hafez,Identity,"Milan Kundera, Linda Asher"
+66,1618,5909,0.16322702169418335,7,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone",Leota's Garden,Francine Rivers
+67,8854,5909,0.13364052772521973,3,Mark of the Lion Trilogy,Francine Rivers,Leota's Garden,Francine Rivers
+68,1788,6361,0.19371730089187622,6,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,There's Treasure Everywhere: A Calvin and Hobbes Collection,Bill Watterson
+69,3628,6361,0.07725948095321655,7,The Complete Calvin and Hobbes,Bill Watterson,There's Treasure Everywhere: A Calvin and Hobbes Collection,Bill Watterson
+70,4483,6361,0.26522594690322876,1,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,There's Treasure Everywhere: A Calvin and Hobbes Collection,Bill Watterson
+71,6920,6361,0.17283952236175537,7,The Indispensable Calvin and Hobbes,Bill Watterson,There's Treasure Everywhere: A Calvin and Hobbes Collection,Bill Watterson
+72,2093,6557,0.12248063087463379,2,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",The Talisman (Volume 1): The Road of Trials,"Robin Furth, Stephen King, Peter Straub, Tony Shasteen, Nei Ruffino"
+73,1788,6590,0.10683232545852661,10,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson
+74,3628,6590,0.06686478853225708,8,The Complete Calvin and Hobbes,Bill Watterson,The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson
+75,4483,6590,0.19807690382003784,6,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson
+76,6920,6590,0.3969230651855469,1,The Indispensable Calvin and Hobbes,Bill Watterson,The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson
+77,7947,6886,0.08287292718887329,2,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",The Knowledge of the Holy,A.W. Tozer
+78,1788,6920,0.10783052444458008,9,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,The Indispensable Calvin and Hobbes,Bill Watterson
+79,3628,6920,0.0502282977104187,9,The Complete Calvin and Hobbes,Bill Watterson,The Indispensable Calvin and Hobbes,Bill Watterson
+80,4483,6920,0.1876247525215149,8,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,The Indispensable Calvin and Hobbes,Bill Watterson
+81,8946,6921,0.13930350542068481,2,The Divan,Hafez,Funny in Farsi: A Memoir of Growing Up Iranian in America,Firoozeh Dumas
+82,2093,7015,0.10385757684707642,7,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King","The Little Sisters of Eluria (The Dark Tower, #0.5)","Stephen King, Michael Whelan"
+83,1788,7254,0.13779526948928833,8,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection,Bill Watterson
+84,3628,7254,0.048338353633880615,10,The Complete Calvin and Hobbes,Bill Watterson,Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection,Bill Watterson
+85,4483,7254,0.2325102686882019,3,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection,Bill Watterson
+86,6920,7254,0.2951807379722595,2,The Indispensable Calvin and Hobbes,Bill Watterson,Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection,Bill Watterson
+87,1618,7489,0.17153996229171753,6,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone",And the Shofar Blew,Francine Rivers
+88,8854,7489,0.12935322523117065,5,Mark of the Lion Trilogy,Francine Rivers,And the Shofar Blew,Francine Rivers
+89,2093,7884,0.11352252960205078,5,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",Stephen King's N.,"Marc Guggenheim, Alex Maleev, Stephen King"
+90,7947,8312,0.05660378932952881,7,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",Miracles,C.S. Lewis
+91,8946,8455,0.11330050230026245,4,The Divan,Hafez,The Missing Piece Meets the Big O,Shel Silverstein
+92,1618,8917,0.11262136697769165,10,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone","Her Daughter's Dream (Marta's Legacy, #2)",Francine Rivers
+93,8854,8917,0.08743166923522949,8,Mark of the Lion Trilogy,Francine Rivers,"Her Daughter's Dream (Marta's Legacy, #2)",Francine Rivers
+94,4410,9055,0.07960200309753418,3,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,The Lord of the Rings Sketchbook,"Alan Lee, Ian McKellen"
+95,8854,9316,0.0648648738861084,10,Mark of the Lion Trilogy,Francine Rivers,The Healer (O'Malley #5),Dee Henderson
+96,8946,9460,0.10000002384185791,5,The Divan,Hafez,Too Loud a Solitude,Bohumil Hrabal
+97,4483,9566,0.18918919563293457,7,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,Attack of the Deranged Mutant Killer Monster Snow Goons,Bill Watterson
+98,6920,9566,0.26408451795578003,3,The Indispensable Calvin and Hobbes,Bill Watterson,Attack of the Deranged Mutant Killer Monster Snow Goons,Bill Watterson
+99,4410,9838,0.027649760246276855,8,The Lord of the Rings: The Return of the King: Visual Companion,Jude Fisher,"The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe Official Illustrated Movie Companion","Perry Moore, Andrew Adamson, C.S. Lewis"
